@@ -1,7 +1,8 @@
 # 04 - Generate and Test
 
 Lesson preview:
-- Generate and test meoth 
+
+- Generate and test method
 - Smart Generators
 - Smart Testers
 - Examples
