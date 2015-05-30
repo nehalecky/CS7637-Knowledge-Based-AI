@@ -7,5 +7,17 @@
  
 ### Modeling using Semantic Nework 
 
-Lexicon: Consider each node to be a state (the number of prisoners and 
-Semantic: 
+**Lexicon**: Consider each node to be a unique state, represented by:
+    - number of prisoners and guards on left side
+    - number of prisoners and guards on right side
+    - side that boat is on.
+**Structure**: 
+
+**Semantic**: 
+
+### Inference about State Transitions?
+Which transitions (e.g. moves) between states are both legal AND productive?
+Represent total possible states given transformations possible:
+
+
+
