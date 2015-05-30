@@ -1,2 +1,1 @@
-Test_text__.tex
 This_is_a_markdown_test__.md
