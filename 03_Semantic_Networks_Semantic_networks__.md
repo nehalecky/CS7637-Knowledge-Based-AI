@@ -42,3 +42,7 @@ State A, and state B.
 
 ## Guards and Prisoners Problem
 
+### Description
+- Three guard and three prisoners must cross river.
+- Boat may take only one or two people at a time.
+- Prisoners may never outnumber guards on either time (thought prisoner may be alone on either coast).
