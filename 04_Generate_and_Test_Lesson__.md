@@ -8,15 +8,18 @@ Lesson preview:
 - Examples
 
 
-## Guards and Prisoners
+## Generators and Testers
 
-### Smart Generator 
+### Smart Generator
 
 Takes one state, and generates all possible states, however, should not generate states that are not productive. 
 
 ### Smart Tester
 
-Analyzes all generated states, and filters to only legal (i.e., those states that adhere to logical constraints) and productive (i.e., resultant states that have not yet been observed) states. 
+Analyzes all generated states, and filters to only legal (i.e., those states that adhere to logical constraints) and productive (i.e., resultant states that have not yet been observed) states.
+
+**Note**: For each problem, we have to find the right balance the smartness of generators and testers.
+
 
 ## Generate and Test for Raven's Problems
 
