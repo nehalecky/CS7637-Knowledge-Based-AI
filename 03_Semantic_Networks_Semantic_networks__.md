@@ -21,18 +21,16 @@ Force is equal to mass times acceleration
 ## Introduction to Semantic Networks
 
 How to represent *Raven’s Progressive Matrices* using a semantic network.
-State $A$, and state $B$.
+State A, and state B.
 1. Label all objects (x is a circle, y is the diamond, z is the black dot), and reference them as nodes
 2. Represent the relationships between nodes, in both states (frames), both A and B.
 3. Represent the transformation between the nodes between states, A and B.
-4. 
 
 ### Structure of Semantic Networks
 
 - 1. Lexically: nodes
 - 2. Structurally: directional links
 - 3. Semantically: application-specific labels
-- 
 
 ### Characteristics of Good Representations
 
