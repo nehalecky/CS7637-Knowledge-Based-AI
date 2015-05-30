@@ -19,14 +19,16 @@ Analyzes all generated states, and filters to only legal (i.e., those states tha
 
 ## Generate and Test for Raven's Problems
 
-Explicity
+### Explicity
+
 1. Setup semantic network for A and B, and construct transformation.
 2. Apply transformation to C to generate D
 3. Compare D to possible solutions and find highest match (via level of confidence).
 4. Ensure that D meets a confidence level threshold.
 5. If not, repeat 1-4, however using new semantic network construction approach.
 
-Implicitly
+### Implicitly
+
 1. Setup semantic network for A and B and constuct transformation
 2. Take a solution (1-6) and C and setup semantic network and construct transformation.
 3. Compare resultant transformation
