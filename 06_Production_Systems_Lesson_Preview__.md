@@ -50,5 +50,12 @@ A *deliberation* component, consisting of long-term memory and working memory.
 - *Semantic*: Generalization or models of the world
 - *Episodic*: Event-based knowledge
 
+Precepts, or short term knowledge, provides content to the procedural rules (long term knowledge), and allows for a rule to suggest an operator to be called (fired).
 
+An *impasse* occurs when either:
+
+1. There isn't enough short-term knowledge to 
+2. There are multiple actions sugguested without any means to resolve.
+
+An agent can invoke a *learning* process by searching episodic (instance based) memory for instances similar to current state. Outcomes of these events can allow for a *new* procedure to be created that will resolve the impasse.
 
