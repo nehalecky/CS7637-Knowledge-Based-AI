@@ -11,7 +11,7 @@ Lesson Preview:
 
 ## Framing a Sentence
 
-Find the *action* in the sentence. The action dictates what the frame contains in terms of both its *slots* and *fillers*.
+Find the *action* in the sentence. The action dictates what slots the frame contains, and it's keys and values.
 
 ### *Example*: Ashok ate a frog.
 
