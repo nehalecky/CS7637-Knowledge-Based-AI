@@ -36,14 +36,19 @@ Higher level architectures provide *content* to be manipulated in lower levels. 
 - Symbols and abstractions
 - Flexible and function of the environment: behavior is dependant on environment
 - Learning: learn through interactions
-- 
-
-### Simple Equation
 
 $$ Architecture + Content = Beahavior $$
 
 
+Simplification: assume that Architecture is fixed, modify knowledge content to yield new behavior. 
 
+## SOAR Architecture
+
+A *deliberation* component, consisting of long-term memory and working memory.
+
+- *Procedural*: How to do certain things
+- *Semantic*: Generalization or models of the world
+- *Episodic*: Event-based knowledge
 
 
 
