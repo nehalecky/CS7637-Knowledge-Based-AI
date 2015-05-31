@@ -2,8 +2,8 @@
 
 Lesson Preview:
 
-- Cognative Architectures
-- Prodution Systems
+- Cognitive Architectures
+- Production Systems
 - Chunking (Learning by)
 
 
@@ -22,13 +22,13 @@ High level to Low level, like:
 - Algorithm / Symbol Level
   (e.g., means-end analysis, semantic networks)
 - Hardware / Implementation Level
-  (e.g., a brain, a transitor)
+  (e.g., a brain, a transistor)
 
 Higher level architectures provide *content* to be manipulated in lower levels. Lower levels provide *architecture* for implementing what is represented in higher level. 
 
 *Example* Smart Phone: phone allows for communication with others at long distances
 
-### Assumptions of Cognative Architecture
+### Assumptions of Cognitive Architecture
 
 - Goal Oriented: take actions in pursuit of goals
 - Rich, complex environment
@@ -37,7 +37,7 @@ Higher level architectures provide *content* to be manipulated in lower levels. 
 - Flexible and function of the environment: behavior is dependant on environment
 - Learning: learn through interactions
 
-$$ Architecture + Content = Beahavior $$
+$$ Architecture + Content = Behavior $$
 
 
 Simplification: assume that Architecture is fixed, modify knowledge content to yield new behavior. 
@@ -55,7 +55,6 @@ Precepts, or short term knowledge, provides content to the procedural rules (lon
 An *impasse* occurs when either:
 
 1. There isn't enough short-term knowledge to 
-2. There are multiple actions sugguested without any means to resolve.
+2. There are multiple actions suggested without any means to resolve.
 
 An agent can invoke a *learning* process by searching episodic (instance based) memory for instances similar to current state. Outcomes of these events can allow for a *new* procedure to be created that will resolve the impasse. This is referred to as *chunking*.
-
