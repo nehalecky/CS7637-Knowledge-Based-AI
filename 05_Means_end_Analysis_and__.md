@@ -39,3 +39,6 @@ For each operator that can be applied:
 ### Problem Reduction
 
 Take the goal of a problem and break it apart into more simple goals. Apply means-end after.
+
+## Summary
+We learned about two additional methods for problem solving, means-ends analysis and problem reduction. Means-end takes advantage of optimizing navigation through problem state space, by electing minima differences between state spaces and goal state. Problem reduction leverages the same navigation, however, by achieving smaller much simpler goals that collectively allow for achieving the goal state. Also, we were presented some application of the methods to Raven's progressive matrices. Finally, the differences between weak methods and strong methods was discussed.
