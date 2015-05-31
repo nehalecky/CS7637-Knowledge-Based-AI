@@ -4,3 +4,4 @@ Guards_and_Prisoners_Problem_Description__.md
 begin_tabular_c_c_c__.tex
 Choosing_Matches_by_Weight_One__.md
 04_Generate_and_Test_Lesson__.md
+05_Means_end_Analysis_and__.md
