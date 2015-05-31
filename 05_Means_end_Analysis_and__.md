@@ -33,3 +33,9 @@ For each operator that can be applied:
 - Apply the current operator to the current state.
 - Calculate the difference between the current state and the goal state.
 - Prefer the state the minimizes the distance between the new state and goal state.
+
+*Note*: as a general method, means-end can be applied to a varied range of problems. Due to it generality, it can however, get caught in local minima and cannot converge to the global solution.
+
+### Problem Reduction
+
+Take the goal of a problem and break it apart into more simple goals. Apply means-end after.
