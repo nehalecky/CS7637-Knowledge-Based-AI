@@ -39,7 +39,7 @@ For the following sections, we will consider two examples:
 
 ## Case Adaptation
 
-A slight tweaking of a retrieved case (problem and solution), that allows to solve the existing problem.
+A slight tweaking of a retrieved case (problem and solution), that allows to solve the present problem.
 
 ### by Model of the World
 
@@ -47,6 +47,10 @@ A slight tweaking of a retrieved case (problem and solution), that allows to sol
 - **Example 2**: an API for interacting with language: Python's API is likely similar to Java's, and one can leverage the Java API (a model) to translate the implementation from Python to Java.
 
 ### by Recursive Reasoning
+
+- **Example 1**: Consider now that one needs to navigate from *home* to *resaurant*. Assuming the previous solution navigating from *office* to *restaurant* was successful, and given I already have an existing case for navigation from *home* to *office*, I can recursively navigate first using the solution from *home* to *office* and then from *office* to *resaurant*.
+- 
+
 
 
 Data persistence between instances of programs. Can simply by considering both file input cases, and file output cases.
