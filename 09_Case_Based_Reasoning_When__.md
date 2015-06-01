@@ -72,4 +72,16 @@ Storing the new problem and solution as a case (Encapsulation is the packing of 
 - **Example 1**: Indexing multiple navigation route origins, with x and y components. Might also include other parameters like time of route or the route scenery.
 - **Example 2**: Store file IO cases based on language, data types, speed, etc.
 
+### Discrimination Tree
+
+A tree structure, where cases are represented in *leaf* nodes. The *root* and all *intermediate* nodes are questions. Can be used also in Case Retrevial operations.
+
+## Advanced Case-Based Reasoning
+
+1. Steps in case-based reasoning don't have to be performed linearly.
+2. Storing failed cases can be effective in more quickly finding better solutions
+3. Storing all solutions isn't optimal as we need to only store solutions that are novel in their parameter space.
+
+
+
 
