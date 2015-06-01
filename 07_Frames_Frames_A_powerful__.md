@@ -15,7 +15,7 @@ Find the *action* in the sentence. The action dictates what slots the frame cont
 
 ### *Example*: Ashok ate a frog.
 
----
+
 **Ate**
 
 - subject :
@@ -26,24 +26,21 @@ Find the *action* in the sentence. The action dictates what slots the frame cont
 - object-alive : 
 - object-is : 
 - subject-mood :
-- 
-----
 
 ### *Example*: David ate a pizza at home.
 
----
+
 **Ate**
 
-- subject :
-- object : 
-- location : 
+- subject : David 
+- object : pizza
+- location : home
 - time : 
 - utensils :
 - object-alive : 
-- object-is : 
-- subject-mood :
-- 
-----
+- object-is : in-subject
+- subject-mood : happy
+
 
 ## Properties of Frames
 
@@ -77,5 +74,9 @@ Create Frame for each object, the frame *slots* then contain the structure of th
 
 ### Relation to Production Systems
 
+## Frame relation to Human Cognition
 
+1. Frames are a structured knowledge representation (in comparison with Procedural Rules). They can be considered molecules of knowledge to the atoms of knowledge that are representative in procedural rules.
+2. Frames enable one to construct a theory of cognitive processing that isn't entirely bottom up, but partially top-down.
+3. Frames capture the notion of stereotypes, which are a *cognitively-efficient* default value for the attributes of frames.
 
