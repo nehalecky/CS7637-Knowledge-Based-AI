@@ -11,6 +11,47 @@ Lesson Preview:
 
 ## Recording Cases to Case-Based Reasoning
 
-1. **Retrieval**: Retriving case from memory similar to the current problem.
+1. **Retrieval**: Retriving case from memory similar to the current problem (e.g., kNN result).
 2. **Adaptation**: Adpating the solution to that case to fit the current problem.
 3. **Evaluation**: Evalutating how well the adapted solution address the current problem.
+4. **Storage**: Storing the new problem and solution as a case (encapsulation). 
+
+### Assumptions of Case-Based Reasoning
+
+- Patterns exist in the world.
+- Similar problems have similar solutions
+
+One can consider two examples for cases:
+
+1. Navigation from an *office* to a *restuarant*.
+2. Data persistence between instances of a program.
+
+We will reference both in the following explanations:
+
+## Case Retrevial
+
+As discussed previously, the process whereby we retrieve existing cases that match some similarity criteria for our specific agent. For example, k Nearest Neighbors (kNN).
+
+For the following sections, we will consider two examples:
+
+- **Example 1**: *Case Retrieval* process returns existing case of navigation from *office* to *doctors*, which is nearby *restuarant*.
+- **Example 2**: *Case Retrieval* process (e.g., a programmer's memory) returns existing code for file IO in a Python program.
+
+## Case Adaptation
+
+A slight tweaking of an existing case (problem and solution), that allows to solve the existing problem. 
+
+### by Model of the World
+
+### by Recursive Reasoning
+
+
+Data persistence between instances of programs. Can simply by considering both file input cases, and file output cases.
+
+### by Rules (Hueristics)
+
+
+## Case Evalutation
+
+
+- 
