@@ -49,8 +49,6 @@ A slight tweaking of a retrieved case (problem and solution), that allows to sol
 ### by Recursive Reasoning
 
 - **Example 1**: Consider now that one needs to navigate from *home* to *resaurant*. Assuming the previous solution navigating from *office* to *restaurant* was successful, and given I already have an existing case for navigation from *home* to *office*, I can recursively navigate first using the solution from *home* to *office* and then from *office* to *resaurant*.
-- 
-
 
 
 Data persistence between instances of programs. Can simply by considering both file input cases, and file output cases.
