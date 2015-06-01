@@ -53,8 +53,14 @@ A slight tweaking of a retrieved case (problem and solution), that allows to sol
 
 ### by Rules (Hueristics)
 
+Rule's of thumb. For instance, where is downtown? In North America, find the cluster of large buildings and assume this is the city center. Note, this isn't always true and is likely localize.
+
+- **Example 1**: Consider now that one needs to return from *resaurant* to *home*. Assuming the previous solution navigating from  *home* to *resaurant* was successful, a hueristic would be to reverse the solution path.
+- **Example 2**:  Efficiency is now a concern for file IO. Adapt existing code for file IO that reads one byte at a time to instead alway read arrays of bytes instead.
 
 ## Case Evalutation
+
+
 
 
 - 
