@@ -93,6 +93,7 @@ Analogical reasoning depends on a spectrum of similarity:
 ### Mapping to Cognitive Architecture
 
 The three components are important because:
+
 1. Reasoning: tweaking existing experience to encounter new problems.
 2. Learning: because we need to acquire and store experiences.
 3. Memory: because we need to retrieve experiences when needed.
