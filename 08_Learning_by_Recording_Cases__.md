@@ -24,7 +24,7 @@ Define some parameter set that can prescribe numerical values to each *case* (e.
 
 Given existing case at ($x_c$, $y_c$), and new problem at (x_n, y_n)
 
-$$ d = \sqrt{(y_c - y_n)^2 + (x_c - x_n)^2} $$
+$$ d = \sqrt{(y_{c} - y_{n})^{2} + (x_{c} - x_{n})^{2}} $$
 
 
 
