@@ -60,7 +60,16 @@ Rule's of thumb. For instance, where is downtown? In North America, find the clu
 
 ## Case Evalutation
 
+In some domains, execution cost can be small (simply doing what the solution proposes), however, other domains, it can be very costly. What then? **Simulation FTW**!
+
+- **Example 1**: trying to return in a car with one way streets
+- **Example 2**: executing adapted code to see if it compiles and performs.
+
+## Case Storage
+
+Storing the new problem and solution as a case (Encapsulation is the packing of data and functions into a single component).
+
+- **Example 1**: Indexing multiple navigation route origins, with x and y components. Might also include other parameters like time of route or the route scenery.
+- **Example 2**: Store file IO cases based on language, data types, speed, etc.
 
 
-
-- 
