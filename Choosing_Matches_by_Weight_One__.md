@@ -2,8 +2,7 @@
 
 One can weigh transformations to favor specific types of transformations over others. For example:
 
-Points | Weights
-----------------
+### Points Weights
 
 5: Unchanged
 4: Reflected
