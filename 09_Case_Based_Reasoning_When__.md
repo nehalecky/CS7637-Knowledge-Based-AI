@@ -21,7 +21,7 @@ Lesson Preview:
 - Patterns exist in the world.
 - Similar problems have similar solutions
 
-One can consider two examples for cases:
+One could consider two examples for cases:
 
 1. Navigation from an *office* to a *restuarant*.
 2. Data persistence between instances of a program.
@@ -39,9 +39,12 @@ For the following sections, we will consider two examples:
 
 ## Case Adaptation
 
-A slight tweaking of an existing case (problem and solution), that allows to solve the existing problem. 
+A slight tweaking of a retrieved case (problem and solution), that allows to solve the existing problem.
 
 ### by Model of the World
+
+- **Example 1**: Search using a map (the model), to find navigation from *doctor* to *resturant*.
+- **Example 2**: an API for interacting with language: Python's API is likely similar to Java's, and one can leverage the Java API (a model) to translate the implementation from Python to Java.
 
 ### by Recursive Reasoning
 
