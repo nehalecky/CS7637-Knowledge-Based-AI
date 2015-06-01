@@ -4,9 +4,9 @@ One can weigh transformations to favor specific types of transformations over ot
 
 ### Points Weights
 
-5: Unchanged
-4: Reflected
-3: Rotated
-2: Scaled
-1: Deleted
-0: Shape Changed
+- 5: Unchanged
+- 4: Reflected
+- 3: Rotated
+- 2: Scaled
+- 1: Deleted
+- 0: Shape Changed
