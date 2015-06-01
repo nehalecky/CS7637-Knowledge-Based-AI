@@ -7,3 +7,4 @@ Choosing_Matches_by_Weight_One__.md
 05_Means_end_Analysis_and__.md
 06_Production_Systems_Lesson_Preview__.md
 07_Frames_Frames_A_powerful__.md
+08_Learning_by_Recording_Cases__.md
