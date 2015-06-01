@@ -58,12 +58,24 @@ Create Frame for each object, the frame *slots* then contain the structure of th
 #### Example
 
 **Object**
+
 - name : x
 - shape : triangle
 - size : large
 - fill : false
 - inside : 
 - above :
-- 
+
+**Object**
+
+- name : z
+- shape : circle
+- size : large
+- fill : false
+- inside : 
+- above : x
+
+### Relation to Production Systems
+
 
 
