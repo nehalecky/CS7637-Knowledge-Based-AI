@@ -3,6 +3,7 @@
 Useful for *well-formed* problems.
 
 Lesson preview:
+
 - State Spaces
 - Means-End Analysis 
 - Problems Solving with Means-End Analysis
