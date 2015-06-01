@@ -8,10 +8,10 @@
 ### Modeling using Semantic Nework 
 
 **Lexicon**: Consider each node to be a unique state, represented by:
-
     - number of prisoners and guards on left side
     - number of prisoners and guards on right side
     - side that boat is on.
+
 **Structure**: 
 
 **Semantic**: 
