@@ -20,11 +20,15 @@ Apply **b**'s solution to problem **a**.
 
 ## Case Retrieval by Nearest Neighbor
 
-Define some parameter set that can prescribe numerical values to each *case* (e.g., height and weight).
 
 Given existing case at ($x_c$, $y_c$), and new problem at (x_n, y_n), we can compute the euclidean distances:
 
 $$ d = \sqrt((y_{c} - y_{n})^{2} + (x_{c} - x_{n})^{2}) $$
+
+This can be expanded to multiple parameters, and we can prescribe numerical values to each *case* (e.g., height and weight).
+
+This results in kNN.
+
 
 
 
