@@ -22,9 +22,9 @@ Apply **b**'s solution to problem **a**.
 
 Define some parameter set that can prescribe numerical values to each *case* (e.g., height and weight).
 
-Given existing case at ($x_c$, $y_c$), and new problem at (x_n, y_n)
+Given existing case at ($x_c$, $y_c$), and new problem at (x_n, y_n), we can compute the euclidean distances:
 
-$$ d = \sqrt{(y_{c} - y_{n})^{2} + (x_{c} - x_{n})^{2}} $$
+$$ d = \sqrt((y_{c} - y_{n})^{2} + (x_{c} - x_{n})^{2}) $$
 
 
 
