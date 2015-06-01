@@ -85,6 +85,7 @@ A tree structure, where cases are represented in *leaf* nodes. The *root* and al
 ## The Cognitive Connection
 
 Analogical reasoning depends on a spectrum of similarity:
+
 1. On side: problems *identical* to previous problems: simply retrive solution and apply
 2. Other side: problems semantically dissimilar from previous problems: to be discussed later
 3. Now: problems which are similar (yet not identical) to previous problems (the most common in human cognition).
